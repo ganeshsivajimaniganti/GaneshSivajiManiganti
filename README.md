@@ -16,7 +16,7 @@
 💡 Passionate about **Java Development, Spring Boot, and Backend Engineering**  
 💬 Love learning **new technologies** and building **real-world projects**  
 🎯 Goal: To become a **Full Stack Java Developer**  
-🌏 Planning to pursue **Master’s in Australia**  
+  
 
 ---
 
