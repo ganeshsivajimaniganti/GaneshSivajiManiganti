@@ -49,6 +49,16 @@ A menu-driven travel booking system using **Core Java** and **JDBC**
 - ⚙️ Modular design with clean exception handling  
 
 ---
+---
+
+### 🛍️ [Flipkart Clone – Responsive E-commerce Landing Page]( https://ganeshsivajimaniganti.github.io/FlipkartClone/)
+A Flipkart inspired e-commerce frontend built with HTML, CSS, and JavaScript.  
+- 🛒 Responsive landing page showcasing product categories with dynamic JSON data rendering  
+- 📦 Efficient product browsing experience with clean UI design  
+- 🔐 Independent Sign-In page featuring form validation for seamless authentication  
+
+---
+
 
 ### 🧩 My Learning & Interests
 📘 Solving problems on **LeetCode & HackerRank**  
