@@ -48,8 +48,6 @@ A menu-driven travel booking system using **Core Java** and **JDBC**
 - 💰 Weekend fare surge with GST  
 - ⚙️ Modular design with clean exception handling  
 
----
----
 
 ### 🛍️ [Flipkart Clone – Responsive E-commerce Landing Page]( https://ganeshsivajimaniganti.github.io/FlipkartClone/)
 A Flipkart inspired e-commerce frontend built with HTML, CSS, and JavaScript.  
